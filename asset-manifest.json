@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/vocabulary-builder-app/static/css/main.8842034b.css",
-    "main.js": "/vocabulary-builder-app/static/js/main.37da0ab3.js",
+    "main.js": "/vocabulary-builder-app/static/js/main.55fe4d88.js",
     "static/js/46.988d37ae.chunk.js": "/vocabulary-builder-app/static/js/46.988d37ae.chunk.js",
     "static/js/675.4ac9b49f.chunk.js": "/vocabulary-builder-app/static/js/675.4ac9b49f.chunk.js",
     "static/js/830.3c54e301.chunk.js": "/vocabulary-builder-app/static/js/830.3c54e301.chunk.js",
@@ -13,6 +13,6 @@
   },
   "entrypoints": [
     "static/css/main.8842034b.css",
-    "static/js/main.37da0ab3.js"
+    "static/js/main.55fe4d88.js"
   ]
 }
