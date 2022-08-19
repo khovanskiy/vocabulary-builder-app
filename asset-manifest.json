@@ -1,18 +1,12 @@
 {
   "files": {
     "main.css": "/vocabulary-builder-app/static/css/main.8842034b.css",
-    "main.js": "/vocabulary-builder-app/static/js/main.d54d404f.js",
-    "static/js/46.988d37ae.chunk.js": "/vocabulary-builder-app/static/js/46.988d37ae.chunk.js",
-    "static/js/675.4ac9b49f.chunk.js": "/vocabulary-builder-app/static/js/675.4ac9b49f.chunk.js",
-    "static/js/830.3c54e301.chunk.js": "/vocabulary-builder-app/static/js/830.3c54e301.chunk.js",
-    "static/js/231.02a9c206.chunk.js": "/vocabulary-builder-app/static/js/231.02a9c206.chunk.js",
-    "static/js/362.01629ff0.chunk.js": "/vocabulary-builder-app/static/js/362.01629ff0.chunk.js",
-    "static/js/679.ef9e6bfc.chunk.js": "/vocabulary-builder-app/static/js/679.ef9e6bfc.chunk.js",
+    "main.js": "/vocabulary-builder-app/static/js/main.991b05be.js",
     "static/js/27.68681e33.chunk.js": "/vocabulary-builder-app/static/js/27.68681e33.chunk.js",
     "index.html": "/vocabulary-builder-app/index.html"
   },
   "entrypoints": [
     "static/css/main.8842034b.css",
-    "static/js/main.d54d404f.js"
+    "static/js/main.991b05be.js"
   ]
 }
