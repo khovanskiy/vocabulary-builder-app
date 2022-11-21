@@ -1,12 +1,12 @@
 {
   "files": {
     "main.css": "/vocabulary-builder-app/static/css/main.8842034b.css",
-    "main.js": "/vocabulary-builder-app/static/js/main.991b05be.js",
+    "main.js": "/vocabulary-builder-app/static/js/main.e39588f9.js",
     "static/js/27.68681e33.chunk.js": "/vocabulary-builder-app/static/js/27.68681e33.chunk.js",
     "index.html": "/vocabulary-builder-app/index.html"
   },
   "entrypoints": [
     "static/css/main.8842034b.css",
-    "static/js/main.991b05be.js"
+    "static/js/main.e39588f9.js"
   ]
 }
